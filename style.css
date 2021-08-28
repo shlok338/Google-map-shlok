@@ -1,0 +1,12 @@
+@import url('https://fonts.googleapis.com/css2?family=Lato&display=swap');
+body{
+    text-align: center;
+    font-family: 'Lato', sans-serif;
+    background-image: url("https://wallpapercave.com/wp/wp4313180.jpg");
+    color: white;
+}
+
+div{
+    width: 1200px;
+    height: 500px;
+}
